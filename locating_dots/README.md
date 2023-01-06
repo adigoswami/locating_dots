@@ -1,0 +1,3 @@
+There are four arguments to be passed: image name, output_file_name (not required if the format is numpy or for team Albus), format, scaling (this is the scaling factor).
+Please use the correct image with the correct format, if there is an error in csv or tsv format the image has very small dots which would be accessible in numpy format only.
+There is a lot of room for improvement for the algorithms used in this package.
